@@ -22,6 +22,7 @@ kubectl describe pv local-pv
 local-pv - наш созданный вручную, статус Available
 pvc-dcd0e528... - автоматически созданный, статус Bound к PVC
 PVC привязался не к нашему local-pv, а к автоматически созданному PV потому что:
+
 1)У автоматического PV storageClassName: standard (дефолтный)
 
 2)У нашего PV не указан storageClassName
