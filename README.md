@@ -34,7 +34,14 @@ kubectl exec -n app $BACKEND_POD -- curl -v http://cache.app.svc.cluster.local
 kubectl exec -n app $BACKEND_POD -- timeout 3 curl -v http://frontend.app.svc.cluster.local
 kubectl exec -n app $FRONTEND_POD -- timeout 3 curl -v http://cache.app.svc.cluster.local
 ```
-
+### Проверка
 <img width="603" height="191" alt="image" src="https://github.com/user-attachments/assets/e01fce5c-d2e7-467c-990c-bebc1d8fad24" />
 
+### Тестируем разрешенные соединения
+<img width="1160" height="550" alt="image" src="https://github.com/user-attachments/assets/edfabcb0-d0ec-488a-846b-dda3e0a2724d" />
 
+<img width="1143" height="498" alt="image" src="https://github.com/user-attachments/assets/8ff8fcd2-5453-4499-9d82-fd4bdcc164b0" />
+
+### Тестируем запрещенные соединения
+
+<img width="1165" height="228" alt="image" src="https://github.com/user-attachments/assets/424ac313-e786-4329-a2cc-78ff4857ee61" />
