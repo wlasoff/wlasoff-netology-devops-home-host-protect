@@ -33,11 +33,11 @@
 
 ### Решение 1
 
-Cкриншот каталога пользователя cryptouser с исходными данными:
+Вид каталога пользователя cryptouser с исходными данными:
 
 ![Cкриншот каталога пользователя cryptouser с исходными данными](https://github.com/wlasoff/netology-devops-home-host-protect/blob/main/img/cryptouser1.jpg)
 
-Cкриншот каталога пользователя cryptouser с зашифрованными данными:
+Вид каталога пользователя cryptouser с зашифрованными данными:
 
 ![Cкриншот каталога пользователя cryptouser с зашифрованными данными](https://github.com/wlasoff/netology-devops-home-host-protect/blob/main/img/cryptouser2.jpg)
 
@@ -52,16 +52,16 @@ Cкриншот каталога пользователя cryptouser с заши
 
 ### Решение 2
 
-Cкриншот 1:
+Установим LUKS:
 
-![Выполнение команды rsync](https://github.com/wlasoff/netology-devops-home-host-protect/blob/main/img/cryptouser3.jpg)
+![Установка LUKS](https://github.com/wlasoff/netology-devops-home-host-protect/blob/main/img/cryptouser3.jpg)
 
-Cкриншот 2:
+Создание раздела объемом 100 Мб:
 
-![Выполнение команды rsync](https://github.com/wlasoff/netology-devops-home-host-protect/blob/main/img/cryptouser4.jpg)
+![Создание раздела объемом 100 Мб](https://github.com/wlasoff/netology-devops-home-host-protect/blob/main/img/cryptouser4.jpg)
 
-Cкриншот 3:
+ПолучензЗашифрованный раздел с помощью LUKS:
 
-![Выполнение команды rsync](https://github.com/wlasoff/netology-devops-home-host-protect/blob/main/img/cryptouser5.jpg)
+![Зашифрованный раздел](https://github.com/wlasoff/netology-devops-home-host-protect/blob/main/img/cryptouser5.jpg)
 
 ---
