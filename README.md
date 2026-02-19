@@ -35,11 +35,11 @@
 
 Cкриншот каталога пользователя cryptouser с исходными данными:
 
-![Выполнение команды rsync](https://github.com/wlasoff/netology-devops-home-backup/blob/main/img/rsync.jpg)
+![Cкриншот каталога пользователя cryptouser с исходными данными](https://github.com/wlasoff/netology-devops-home-host-protect/blob/main/img/cryptouser1.jpg)
 
 Cкриншот каталога пользователя cryptouser с зашифрованными данными:
 
-![Выполнение команды rsync](https://github.com/wlasoff/netology-devops-home-backup/blob/main/img/rsync.jpg)
+![Cкриншот каталога пользователя cryptouser с зашифрованными данными](https://github.com/wlasoff/netology-devops-home-host-protect/blob/main/img/cryptouser2.jpg)
 
 ---
 ### Задание 2
@@ -54,14 +54,14 @@ Cкриншот каталога пользователя cryptouser с заши
 
 Cкриншот 1:
 
-![Выполнение команды rsync](https://github.com/wlasoff/netology-devops-home-backup/blob/main/img/rsync.jpg)
+![Выполнение команды rsync](https://github.com/wlasoff/netology-devops-home-host-protect/blob/main/img/cryptouser3.jpg)
 
 Cкриншот 2:
 
-![Выполнение команды rsync](https://github.com/wlasoff/netology-devops-home-backup/blob/main/img/rsync.jpg)
+![Выполнение команды rsync](https://github.com/wlasoff/netology-devops-home-host-protect/blob/main/img/cryptouser4.jpg)
 
 Cкриншот 3:
 
-![Выполнение команды rsync](https://github.com/wlasoff/netology-devops-home-backup/blob/main/img/rsync.jpg)
+![Выполнение команды rsync](https://github.com/wlasoff/netology-devops-home-host-protect/blob/main/img/cryptouser5.jpg)
 
 ---
