@@ -35,11 +35,11 @@
 
 Вид каталога пользователя cryptouser с исходными данными:
 
-![Cкриншот каталога пользователя cryptouser с исходными данными](https://github.com/wlasoff/netology-devops-home-host-protect/blob/main/img/cryptouser1.png)
+![Cкриншот каталога пользователя cryptouser с исходными данными](https://github.com/wlasoff/wlasoff-netology-devops-home-host-protect/blob/main/img/cryptouser1.png)
 
 Вид каталога пользователя cryptouser с зашифрованными данными:
 
-![Cкриншот каталога пользователя cryptouser с зашифрованными данными](https://github.com/wlasoff/netology-devops-home-host-protect/blob/main/img/cryptouser2.png)
+![Cкриншот каталога пользователя cryptouser с зашифрованными данными](https://github.com/wlasoff/wlasoff-netology-devops-home-host-protect/blob/main/img/cryptouser2.png)
 
 ---
 ### Задание 2
@@ -60,7 +60,7 @@
 
 ![Создание раздела объемом 100 Мб](https://github.com/wlasoff/wlasoff-netology-devops-home-host-protect/blob/main/img/cryptouser4.png)
 
-ПолучензЗашифрованный раздел с помощью LUKS:
+Получен зашифрованный раздел с помощью LUKS:
 
 ![Зашифрованный раздел](https://github.com/wlasoff/wlasoff-netology-devops-home-host-protect/blob/main/img/cryptouser5.png)
 
