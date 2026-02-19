@@ -54,14 +54,14 @@
 
 Установим LUKS:
 
-![Установка LUKS](https://github.com/wlasoff/netology-devops-home-host-protect/blob/main/img/cryptouser3.png)
+![Установка LUKS](https://github.com/wlasoff/wlasoff-netology-devops-home-host-protect/blob/main/img/cryptouser3.png)
 
 Создание раздела объемом 100 Мб:
 
-![Создание раздела объемом 100 Мб](https://github.com/wlasoff/netology-devops-home-host-protect/blob/main/img/cryptouser4.png)
+![Создание раздела объемом 100 Мб](https://github.com/wlasoff/wlasoff-netology-devops-home-host-protect/blob/main/img/cryptouser4.png)
 
 ПолучензЗашифрованный раздел с помощью LUKS:
 
-![Зашифрованный раздел](https://github.com/wlasoff/netology-devops-home-host-protect/blob/main/img/cryptouser5.png)
+![Зашифрованный раздел](https://github.com/wlasoff/wlasoff-netology-devops-home-host-protect/blob/main/img/cryptouser5.png)
 
 ---
