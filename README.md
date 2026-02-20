@@ -41,6 +41,9 @@
 
 ![Cкриншот каталога пользователя cryptouser с зашифрованными данными](https://github.com/wlasoff/wlasoff-netology-devops-home-host-protect/blob/main/img/cryptouser2.png)
 
+или проверить так:
+
+![провкерка каталога пользователя cryptouser с зашифрованными данными](https://github.com/wlasoff/wlasoff-netology-devops-home-host-protect/blob/main/img/cryptouser_2.png)
 ---
 ### Задание 2
 
